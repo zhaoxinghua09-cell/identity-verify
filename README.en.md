@@ -6,7 +6,7 @@
 [![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
 [![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
 
-> SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+> identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
 
 ## Quick Start
 
