@@ -1,0 +1,22 @@
+# identity-verify
+
+> SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+
+## 这是什么
+
+SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+
+## 仓库
+
+- 主页：https://github.com/zhaoxinghua09-cell/identity-verify
+- 默认分支：main
+- 主题标签：agent, agent-skills, ai-agents, ai-governance, audit, claude-code, compliance, content-publishing, lgd, lifecycle-governance, skill-library, synomosai, workbuddy
+
+## 文档
+
+- [README.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/README.md)
+- [SKILL.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/SKILL.md)
+
+## 许可
+
+见仓库根目录许可文件（`LICENSE.md`）。本文件为 AI 检索而生成，不改动仓库任何权利表述。
