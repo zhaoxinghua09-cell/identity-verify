@@ -1,21 +1,26 @@
 # identity-verify
 
-> SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+> identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
 
 ## 这是什么
 
-SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
 
 ## 仓库
 
 - 主页：https://github.com/zhaoxinghua09-cell/identity-verify
 - 默认分支：main
-- 主题标签：agent, agent-skills, ai-agents, ai-governance, audit, claude-code, compliance, content-publishing, lgd, lifecycle-governance, skill-library, synomosai, workbuddy
+- 主题标签：agent, agent-skills, ai-agents, ai-governance, audit, claude-code, cli, compliance, content-publishing, documentation, lgd, lifecycle-governance, offline-first, open-source, prompt-engineering, python, self-hosted, skill-library, synomosai, workbuddy
 
 ## 文档
 
 - [README.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/README.md)
+- [README.en.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/README.en.md)
 - [SKILL.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/SKILL.md)
+- [AGENTS.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/AGENTS.md)
+- [SECURITY.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/SECURITY.md)
+- [CONTRIBUTING.md](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/CONTRIBUTING.md)
+- [CITATION.cff](https://github.com/zhaoxinghua09-cell/identity-verify/blob/main/CITATION.cff)
 
 ## 许可
 
