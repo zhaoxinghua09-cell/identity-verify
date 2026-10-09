@@ -2,7 +2,7 @@
 
 本仓库：`zhaoxinghua09-cell/identity-verify`
 
-**用途**：SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
+**用途**：identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT
 
 ## 使用前
 
