@@ -6,6 +6,24 @@
 [![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
 [![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
 
+> [![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+
+## 概览 · Overview
+
+确认当前会话的登录入口身份，用于回答「你是哪个入口」「是不是同一个 AI 的另一个账号」「标记别搞错」这类问题
+
+---
+
+## 原始说明（未改动）
+
+# identity-verify
+
+[![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+[![Agent Ready](https://img.shields.io/badge/AI--friendly-llms.txt-blue.svg)](llms.txt)
+[![Docs](https://img.shields.io/badge/docs-AGENTS.md-2ea44f.svg)](AGENTS.md)
+[![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
+[![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
+
 > - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
 
 ## 🚀 快速开始 / Quick Start
@@ -69,3 +87,69 @@ SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 
 ├── SKILL.md
 ├── manifest.json
 ```
+
+## 仓库内容
+
+```
+├── AGENTS.md
+├── CITATION.cff
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.en.md
+├── README.md
+├── SECURITY.md
+├── SKILL.md
+├── llms-full.txt
+├── llms.txt
+├── manifest.json
+```
+
+## 检索元数据 · Metadata
+
+```json
+{
+ "repository": "zhaoxinghua09-cell/identity-verify",
+ "topics": [
+  "agent",
+  "agent-skills",
+  "ai-agents",
+  "ai-governance",
+  "audit",
+  "claude-code",
+  "cli",
+  "compliance",
+  "content-publishing",
+  "documentation",
+  "lgd",
+  "lifecycle-governance",
+  "offline-first",
+  "open-source",
+  "prompt-engineering",
+  "python",
+  "self-hosted",
+  "skill-library",
+  "synomosai",
+  "workbuddy"
+ ],
+ "license": "MIT",
+ "default_branch": "main",
+ "size_kb": 7
+}
+```
+
+## 文档族 · Documentation set
+
+| 文件 | 用途 |
+|---|---|
+| `README.md` | 权威说明（本文件） |
+| `README.en.md` | 英文摘要 |
+| `AGENTS.md` | 给 AI Agent 的使用指引与硬约束 |
+| `llms.txt` | AI 检索索引 |
+| `llms-full.txt` | 完整摄入（含原始 README 全文） |
+| `SECURITY.md` | 安全策略 |
+| `CONTRIBUTING.md` | 贡献指引 |
+| `CITATION.cff` | 引用信息 |
+
+## 引用 · Citation
+
+仓库提供 `CITATION.cff`，可按其中格式引用。权利主体与许可以下方「许可说明」及仓库根目录许可文件为准。
