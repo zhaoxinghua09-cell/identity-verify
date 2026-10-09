@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "identity-verify"
-abstract: "SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT"
+abstract: "identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT"
 authors:
   - name: "See the repository and its license file for the rights holder"
 version: "2026"
@@ -14,7 +14,7 @@ keywords:
   - ai-governance
   - audit
   - claude-code
+  - cli
   - compliance
-  - content-publishing
 
 # 说明：作者/权利主体以仓库自身声明为准（本文件由可发现性增强生成，未改动任何权利表述）。
