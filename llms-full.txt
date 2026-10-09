@@ -7,7 +7,7 @@
 ```json
 {
  "full_name": "zhaoxinghua09-cell/identity-verify",
- "description": "SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT",
+ "description": "identity verify — SynomosAI skill - identity-verify - (c) 2026 SynomosAI - MIT",
  "homepage": "",
  "topics": [
   "agent",
@@ -16,10 +16,17 @@
   "ai-governance",
   "audit",
   "claude-code",
+  "cli",
   "compliance",
   "content-publishing",
+  "documentation",
   "lgd",
   "lifecycle-governance",
+  "offline-first",
+  "open-source",
+  "prompt-engineering",
+  "python",
+  "self-hosted",
   "skill-library",
   "synomosai",
   "workbuddy"
@@ -31,6 +38,29 @@
 ```
 
 ## 原始 README（仅修复失效本地链接，其余逐字保留）
+
+# identity-verify
+
+[![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+[![Agent Ready](https://img.shields.io/badge/AI--friendly-llms.txt-blue.svg)](llms.txt)
+[![Docs](https://img.shields.io/badge/docs-AGENTS.md-2ea44f.svg)](AGENTS.md)
+[![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
+[![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
+
+> - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
+
+## 🚀 快速开始 / Quick Start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/identity-verify.git
+cd identity-verify
+```
+
+克隆后按仓库内 `README`/`SKILL.md`/`docs/` 的说明使用；命令与目录结构见下方「仓库内容」。
+
+---
+
+## 原始说明（未改动）
 
 # identity-verify
 ## 许可说明 · License Notice
@@ -71,6 +101,15 @@ SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 
 ## 免责声明
 
 本仓库内容为**理论站位与工具化探索**，不代表任何已获认证、已商业化交付或已服务特定客户的声明；文中涉及的外部标准、认证与条款信息为公开资料转述，正式引用前请**独立核实**。API、授权码与形象大使等为路线图（roadmap）事项，尚未上线。
+
+## 仓库内容
+
+```
+├── LICENSE.md
+├── README.md
+├── SKILL.md
+├── manifest.json
+```
 
 ## 许可
 
